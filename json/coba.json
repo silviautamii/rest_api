@@ -1,0 +1,34 @@
+[
+{
+    "nama": "Silvia Utami Putri",
+    "umur":20,
+    "nim": "2217020150",
+    "lulus": true,
+    "hobby": [
+        "watching movies",
+        "reading"
+
+    ],
+    "pembimbing" : {
+        "pembimbing1": "Doddy Ferdiansyah",
+        "pembimbing2": "Erik Doank"
+    }
+
+},
+{
+    "nama": "Silvia Utami Putri",
+    "umur":20,
+    "nim": "2217020150",
+    "lulus": true,
+    "hobby": [
+        "watching movies",
+        "reading"
+
+    ],
+    "pembimbing" : {
+        "pembimbing1": "Doddy Ferdiansyah",
+        "pembimbing2": "Erik Doank"
+    }
+
+}
+]
